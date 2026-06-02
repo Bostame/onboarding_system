@@ -183,6 +183,10 @@ To view logs for the `nextcloud-sync` service, use the following command:
 journalctl -u nextcloud-sync.service
 ```
 
-## License
+## 📜 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License.
+
+You are free to use, modify, distribute, and sublicense this project under the terms of the MIT License.
+
+See the [LICENSE](LICENSE) file for details.
